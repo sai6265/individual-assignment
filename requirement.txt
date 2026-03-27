@@ -1,0 +1,20 @@
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 🐍  
+- NumPy  
+- Pandas  
+- Seaborn  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+## 📊 Dataset
+
+The dataset is loaded using Seaborn:
+
+```python
+sns.load_dataset("titanic")
